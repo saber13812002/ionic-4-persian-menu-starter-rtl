@@ -74,4 +74,21 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+
+  --ion-font-family: 'vazir';
+}
+
+@font-face { 
+  font-family: 'vazir';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../assets/fonts/vazir/Vazir.ttf');
+}
+
+@font-face {
+  font-family: 'vazir';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../assets/fonts/vazir/numbers/Vazir-FD.ttf');
 }
